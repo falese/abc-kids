@@ -1,0 +1,13 @@
+{
+  "name": "abc-kids",
+  "version": "1.0.0",
+  "description": "abc kids is an app designed to help kids find good games to play",
+  "main": "index.js",
+  "repository": "https://github.com/falese/abc-kids.git",
+  "author": "Sean Falese <falese@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "apps/*"
+  ]
+}
