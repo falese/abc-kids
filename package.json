@@ -9,5 +9,9 @@
   "private": true,
   "workspaces": [
     "apps/*"
-  ]
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "lerna": "^8.0.2"
+  }
 }
