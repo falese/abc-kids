@@ -37,7 +37,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # Upload entire repository
-          path: '/apps/abc-kids-ui/remote-two/dist'
+          path: 'apps/abc-kids-ui/remote-two/dist/@mf-types.zip'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
