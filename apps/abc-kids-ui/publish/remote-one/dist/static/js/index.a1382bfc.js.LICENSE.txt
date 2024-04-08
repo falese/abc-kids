@@ -1,0 +1,11 @@
+/*! react */
+
+/*! ./bootstrap */
+
+/*! /Users/sean/Documents/Development/abc-kids/apps/abc-kids-ui/remote-one/node_modules/react/index.js */
+
+/*! react-dom */
+
+/*! react */
+
+/*! /Users/sean/Documents/Development/abc-kids/apps/abc-kids-ui/remote-one/node_modules/react-dom/index.js */

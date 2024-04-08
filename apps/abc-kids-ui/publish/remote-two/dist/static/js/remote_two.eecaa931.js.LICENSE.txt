@@ -1,0 +1,21 @@
+/*! /Users/sean/Documents/Development/abc-kids/apps/abc-kids-ui/remote-two/node_modules/react-dom/index.js */
+
+/*! react */
+
+/*! @module-federation/sdk */
+
+/*! ./src/home.tsx */
+
+/*! ./constant.cjs.js */
+
+/*! @module-federation/sdk */
+
+/*! /Users/sean/Documents/Development/abc-kids/apps/abc-kids-ui/remote-two/node_modules/@module-federation/webpack-bundler-runtime/dist/index.cjs.js */
+
+/*! ./share.cjs.js */
+
+/*! /Users/sean/Documents/Development/abc-kids/apps/abc-kids-ui/remote-two/node_modules/react/index.js */
+
+/*! @module-federation/runtime */
+
+/*! react */

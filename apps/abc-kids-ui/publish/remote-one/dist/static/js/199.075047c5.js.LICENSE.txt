@@ -1,0 +1,11 @@
+/*! @module-federation/sdk */
+
+/*! ./share.cjs.js */
+
+/*! /Users/sean/Documents/Development/abc-kids/apps/abc-kids-ui/remote-one/node_modules/@module-federation/webpack-bundler-runtime/dist/index.cjs.js */
+
+/*! ./constant.cjs.js */
+
+/*! @module-federation/sdk */
+
+/*! @module-federation/runtime */
